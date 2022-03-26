@@ -1,0 +1,14 @@
+{
+  "name": "web3-lootbox-nft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com_mariya169:mariya169/web3-lootbox-nft.git",
+  "author": "lynn <lynnzclyf@gmail.com>",
+  "license": "MIT",
+  "type":"module",
+  "dependencies": {
+    "@3rdweb/sdk": "^1.42.0",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.2"
+  }
+}
